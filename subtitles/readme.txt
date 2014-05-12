@@ -1,0 +1,5 @@
+- subcache, templates_c must be writable for php
+- don't forget to change the contents of ./configs/ServerName.cfg
+- root directory is webroot (doh)
+- the regular cleanup of the subcache directory has not been automatized yet, you have to cut its size down yourself when you think it grew too big
+- password to the database is not in the cvs, you have to ask me for it

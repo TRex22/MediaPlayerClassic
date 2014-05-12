@@ -1,0 +1,69 @@
+html, body, th, td {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px;}
+img {border-width: 0px;}
+table {empty-cells: show;}
+
+#navlist {margin: 0 0 20px 0; padding: 0 0 20px 10px; border-bottom: 1px solid #2155AD;}
+#navlist ul, #navlist li {margin: 0; padding: 0; display: inline; list-style-type: none;}
+#navlist a:link, #navlist a:visited {float: left; line-height: 16px; font-weight: bold; margin: 0 10px 10px 10px; text-decoration: none; color: #999;}
+#navlist a:link#current, #navlist a:visited#current, #navlist a:hover {border-bottom: 4px solid #88BBDD; padding-bottom: 0px; background: transparent; color: #000;}
+#navlist a:hover {color: #000;}
+
+#content {clear: left};
+
+a:link, a:active, a:visited  {text-decoration: none; color: blue;}
+a:hover {text-decoration: underline; color: red;}
+th a:link, th a:active, th a:visited  {color: white;}
+th a:hover {text-decoration: underline; color: red;}
+/* for mozilla */
+td a:link, td a:active, td a:visited  {text-decoration: none; color: blue;}
+td a:hover {text-decoration: underline; color: red;}
+
+h1 {text-align: center; font-size: 1.5em; padding: 2px; margin: 10px 5px 2px 5px;}
+h1 a {text-decoration: none; color: black;}
+h1 a:active, h1 a:visited {color: black; text-decoration: none;}
+h1 a:hover {background-color: black; color: white; text-decoration: none;}
+
+div.warning {color: red; text-align: center; font-weight: bold; border: 2px solid red; margin-left: auto; margin-right: auto; padding: 5px; margin-bottom: 10px; width: 600px}
+div.warning a:link {text-decoration: underline; color: red;}
+
+strong {font-weight: bold; color: #005}
+
+th {color: white; background-color: #88BBDD; background-image: url(../img/bluehdrmid.gif); background-repeat: repeat-x;}
+th {padding: 1px 5px;}
+td {padding: 1px;}
+tr.required th {font-weight: bold;}
+tr.optional th {font-weight: normal;}
+tr.invalid th {background-color: #DD88BB; background-image: url(../img/redhdrmid.gif);}
+
+.blueborder {border: 1px solid #abd;}
+
+.search table {text-align: center; margin-left: auto; margin-right: auto; border-collapse: collapse; width: 50%;}
+.search th, .search td  {border: 1px solid #abd;}
+.search th {text-align: left; white-space: nowrap;}
+.search td {text-align: left; width: 280px;}
+.search input.text {width: 280px;}
+
+.index {text-align: center;}
+
+.results ol {padding-left: 0; margin-left: 4em; margin-right: 2em;}
+.results table {width: 100%; border-collapse: collapse; border: 1px solid #abd;}
+.results th {font-size: 12px;}
+.results td {font-size: 11px;}
+.results th {border: 1px solid #abd; background-image: url(../img/bluehdrsmall.gif);}
+.results td {border: 1px solid #abd; border-bottom: 1px solid #abd; text-align: center; padding: 1px 5px}
+.results td.notes {text-align: justify; padding: 2px 5px}
+.results .dlme {color:red;}
+.results .imdb {float: right; margin-left: 5px;}
+.results .icons {width: 1px;}
+
+.subul input.text {width: 300px;}
+.subul table {text-align: center; margin-left: auto; margin-right: auto; border-collapse: collapse;}
+.subul th, .subul td {border: 1px solid #abd; vertical-align: middle;}
+.subul th {text-align: left; white-space: nowrap; width: 50%; }
+.subul td {text-align: center; width: 300px;}
+
+.signin table {text-align: center; margin-left: auto; margin-right: auto; border-collapse: collapse;}
+.signin th, .signin td  {border: 1px solid #abd;}
+.signin th {text-align: left; white-space: nowrap;}
+.signin td {text-align: left; width: 200px;}
+.signin input.text {width: 200px;}

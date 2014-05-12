@@ -1,0 +1,1 @@
+<?php echo "ISDb v1"; exit; ?>

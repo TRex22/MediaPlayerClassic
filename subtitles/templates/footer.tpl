@@ -1,0 +1,5 @@
+{* Smarty *}
+
+</div>
+</body>
+</html>

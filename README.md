@@ -1,5 +1,7 @@
 MediaPlayerClassic
 ==================
+This branches source:
+http://sourceforge.net/p/guliverkli/code/HEAD/tree/
 
 A code base of the original media player classic 6.4.9.0 from 
   http://sourceforge.net/projects/guliverkli/files/Media%20Player%20Classic/ 

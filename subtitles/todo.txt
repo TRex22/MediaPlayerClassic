@@ -1,0 +1,11 @@
+- admin users
+
+- allow admins to delete obsolite mirrors
+
+- allow admins to add or modify imdb links (-> movie entries in the db should be groupped after two or more gets the same imdb id)
+
+- display "number of downloads" somewhere
+
+- clean file name for the imdb search url on the upload page
+
+- try to find the title after the file's hash or name
