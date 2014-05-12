@@ -28,3 +28,4 @@ TODO
   6. look at visual customisation
   7. optimisations
   8. Access Validity of this project
+  9. Add proper documentation
