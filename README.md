@@ -14,6 +14,9 @@ so is 6.4.9.1
 
 There are two branches for the original source bases from SourceForge
 
+Old Downloads:  http://sourceforge.net/projects/guliverkli/files/Media%20Player%20Classic/
+                http://sourceforge.net/projects/guliverkli2/files/Media%20Player%20Classic/
+
 TODO
 ====
 
