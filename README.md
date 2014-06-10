@@ -1,5 +1,9 @@
 MediaPlayerClassic
 ==================
+This is a side-project for me and at the moment it will probably not get that much attention.
+Feel free to complete some of the issues and send me a pull request to review and update the code.
+  Also use a new branch for now and track what source you are editing from. There is quite alot of mess to sort through
+
 
 A code base of the original media player classic 6.4.9.0 from 
   http://sourceforge.net/projects/guliverkli/files/Media%20Player%20Classic/ 
